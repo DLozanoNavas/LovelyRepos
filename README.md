@@ -18,3 +18,5 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Free APIs](https://github.com/public-apis/public-apis): A collective list of free APIs for use in software and web development.
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS): This is a series of books diving deep into the core mechanisms of the JavaScript language.
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers): It contains a curated list of design and UI resources from stock photos, web templates, CSS frameworks to UI Libraries and tools for development. 
+- [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
