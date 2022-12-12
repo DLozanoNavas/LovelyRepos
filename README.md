@@ -20,3 +20,4 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers): It contains a curated list of design and UI resources from stock photos, web templates, CSS frameworks to UI Libraries and tools for development. 
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+- [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
