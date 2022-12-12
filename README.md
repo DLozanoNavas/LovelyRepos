@@ -6,7 +6,7 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [How Web Works](https://github.com/vasanthk/how-web-works)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Community driven roadmaps, articles and resources for developers
 - [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
-
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): freeCodeCamp.org's open-source codebase and curriculum.
 ## Courses 👨‍🏫
 - [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
