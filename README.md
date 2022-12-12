@@ -21,3 +21,11 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 - [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Community driven roadmaps, articles and resources for developers
+- [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
+
+
+
+
