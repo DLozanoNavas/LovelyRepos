@@ -15,7 +15,7 @@ This is a work in progress and links will be constantly added as I find more lov
 - [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
 - [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 - [Artificial Intelligence for Beginners](https://github.com/microsoft/ai-for-beginners)
-
+- [Stanford's CS231n: Deep Learning for Computer Vision](https://github.com/cs231n)
 ## Interviews 💼
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
