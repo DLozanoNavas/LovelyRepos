@@ -22,6 +22,10 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 ## Books & Learning Resources 📚
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 
+## Best practices 🎈
+- [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learning how to design scalable systems will help you become a better engineer.
+
 ## Uncategorized (yet) 🤔
 - [Apollo 11 guidance computer (AGC) source code](https://github.com/chrislgarry/Apollo-11)
 - [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
@@ -40,11 +44,10 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers): It contains a curated list of design and UI resources from stock photos, web templates, CSS frameworks to UI Libraries and tools for development. 
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-- [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
+
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learning how to design scalable systems will help you become a better engineer.
 
 
 
