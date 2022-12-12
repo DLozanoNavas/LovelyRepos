@@ -9,7 +9,7 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [free-for.dev](https://github.com/ripienaar/free-for-dev)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+
 - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 - [Big List of Naughty Strings](https://github.com/SimonCropp/NaughtyStrings)
@@ -26,6 +26,8 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Community driven roadmaps, articles and resources for developers
 - [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
 
-
-
+## Interviews 💼
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
