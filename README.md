@@ -25,6 +25,7 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Community driven roadmaps, articles and resources for developers
 - [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learning how to design scalable systems will help you become a better engineer.
 
 ## Interviews 💼
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
