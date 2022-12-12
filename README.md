@@ -27,6 +27,13 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learning how to design scalable systems will help you become a better engineer.
 
+## Courses 👨‍🏫
+- [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
+- [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+- [Artificial Intelligence for Beginners](https://github.com/microsoft/ai-for-beginners)
+
 ## Interviews 💼
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
