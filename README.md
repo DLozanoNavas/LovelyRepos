@@ -1,6 +1,6 @@
 # LovelyRepos
 
-This repo contains all the repos I find lovely! This is a work in progress and links will be constantly added as I find more lovely repos.
+This repo contains a curated list of all the repos I find lovely! This is a work in progress and links will be constantly added as I find more lovely repos.
 
 ## Fundamentals ⚡
 - [How Web Works](https://github.com/vasanthk/how-web-works)
