@@ -2,7 +2,23 @@
 
 This repo contains all the repos I find lovely! This is a work in progress and links will be constantly added as I find more lovely repos.
 
+## Fundamentals ⚡
+- [How Web Works](https://github.com/vasanthk/how-web-works)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Community driven roadmaps, articles and resources for developers
 
+## Courses 👨‍🏫
+- [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
+- [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+- [Artificial Intelligence for Beginners](https://github.com/microsoft/ai-for-beginners)
+
+## Interviews 💼
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+
+## Uncategorized (yet) 🤔
 - [Apollo 11 guidance computer (AGC) source code](https://github.com/chrislgarry/Apollo-11)
 - [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
 - [Awesome Hub](https://github.com/sindresorhus/awesome)
@@ -23,19 +39,8 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Community driven roadmaps, articles and resources for developers
 - [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learning how to design scalable systems will help you become a better engineer.
 
-## Courses 👨‍🏫
-- [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-- [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
-- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
-- [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-- [Artificial Intelligence for Beginners](https://github.com/microsoft/ai-for-beginners)
 
-## Interviews 💼
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
