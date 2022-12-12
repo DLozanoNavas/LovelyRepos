@@ -5,6 +5,7 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 ## Fundamentals ⚡
 - [How Web Works](https://github.com/vasanthk/how-web-works)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Community driven roadmaps, articles and resources for developers
+- [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
 
 ## Courses 👨‍🏫
 - [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
@@ -39,7 +40,7 @@ This repo contains all the repos I find lovely! This is a work in progress and l
 - [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
-- [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know.
+
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer): Learning how to design scalable systems will help you become a better engineer.
 
 
